@@ -1,0 +1,16 @@
+{
+  "name": "exif-api",
+  "version": "1.0.0",
+  "description": "api",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "node index.js"
+  },
+  "author": "ja",
+  "license": "ISC",
+  "dependencies": {
+    "exif": "^0.6.0",
+    "express": "^4.18.2"
+  }
+}
